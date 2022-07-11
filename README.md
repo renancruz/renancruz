@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Renan Cruz
 
 - 🖥 Programador back-end
-- 📚 Estudando Golang e UI/UX Design + Front-End
+- 📚 Estudando Golang + UI/UX Design + Front-End
 - 😄 Pronouns: ele/dele
 
 <div align="center">
