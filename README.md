@@ -1,4 +1,4 @@
-## Olá! Eu sou o Renan Cruz
+## Hi there! I'm Renan Cruz
 
 - 🖥 Back-end developer
 - 📚 Learning NodeJS + React/React Native
