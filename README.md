@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Renan Cruz
 
 - 🖥 Programador back-end
-- 📚 Estudando NodeJS + React
+- 📚 Estudando NodeJS + React/React Native
 - 😄 Pronouns: ele/dele
 
 <div align="center">
